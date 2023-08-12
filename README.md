@@ -1,4 +1,4 @@
-# cheerup
+# Chair Up!
 
 A new Flutter project.
 
