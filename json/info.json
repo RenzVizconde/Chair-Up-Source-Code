@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Notes",
+        "img": "assets/images/notesLibrary.png"
+    },
+    {
+        "title": "Tasks",
+        "img": "assets/images/taskLibrary.png"
+    },
+    {
+        "title": "Exercises",
+        "img": "assets/images/physicalLibrary.png"
+    },
+    {
+        "title": "Managing Stress",
+        "img": "assets/images/mentalLibrary.png"
+    }
+]
